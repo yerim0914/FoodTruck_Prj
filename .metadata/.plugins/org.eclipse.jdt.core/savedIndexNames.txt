@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\morri\Desktop\예림아 맡긴다\예림아 맡긴다\.metadata\.plugins\org.eclipse.jdt.core
+1067094681.index
